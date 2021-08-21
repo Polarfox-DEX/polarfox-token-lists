@@ -26,7 +26,7 @@
         "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/master/43114/token-logos/WETH-logo.png"
       },
       {
-        "address": "0x8E18dEF819C5C50937e883dD9ecc5B6783224aC7",
+        "address": "0xde3A24028580884448a5397872046a019649b084",
         "chainId": 43114,
         "name": "Tether USD",
         "symbol": "USDT",
