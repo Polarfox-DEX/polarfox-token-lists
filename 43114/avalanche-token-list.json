@@ -2,8 +2,8 @@
     "name": "Avalanche Token List",
     "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/list-logos/avalanche-token-list.png",
     "version": {
-      "major": 2,
-      "minor": 1,
+      "major": 0,
+      "minor": 0,
       "patch": 0
     },
     "keywords": [],
