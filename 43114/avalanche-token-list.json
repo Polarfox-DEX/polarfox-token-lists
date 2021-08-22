@@ -15,7 +15,7 @@
         "name": "Wrapped AVAX",
         "symbol": "AVAX",
         "decimals": 18,
-        "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/44114/token-logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.png"
+        "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/43114/token-logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.png"
       },
       {
         "address": "0x598d84C62B6a9Af2FcF6DA1D9Bff52f9dd7D8226",
@@ -23,7 +23,7 @@
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/44114/token-logos/0x598d84C62B6a9Af2FcF6DA1D9Bff52f9dd7D8226.png"
+        "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/43114/token-logos/0x598d84C62B6a9Af2FcF6DA1D9Bff52f9dd7D8226.png"
       },
       {
         "address": "0xde3A24028580884448a5397872046a019649b084",
@@ -31,7 +31,7 @@
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 18,
-        "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/44114/token-logos/0xde3A24028580884448a5397872046a019649b084.png"
+        "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/43114/token-logos/0xde3A24028580884448a5397872046a019649b084.png"
       },
       {
         "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
