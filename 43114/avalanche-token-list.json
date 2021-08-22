@@ -13,7 +13,7 @@
         "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
         "chainId": 43114,
         "name": "Wrapped AVAX",
-        "symbol": "AVAX",
+        "symbol": "WAVAX",
         "decimals": 18,
         "logoURI": "https://github.com/Polarfox-DEX/polarfox-token-lists/blob/master/43114/token-logos/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.png"
       },
