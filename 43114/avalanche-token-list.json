@@ -39,8 +39,17 @@
       "name": "Dai Stablecoin",
       "symbol": "Dai",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0xde3A24028580884448a5397872046a019649b084.png"
-    }
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a.png"
+      },
+      {
+        "address": "0x217F94a628A23273b97770C20A5e134D40B87b5F",
+        "chainId": 43114,
+        "name": "BNB Token",
+        "symbol": "BNB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0x217F94a628A23273b97770C20A5e134D40B87b5F.png"
+      }
+    
     
     ]
   }
