@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/list-logos/avalanche-token-list.png",
     "version": {
       "major": 0,
-      "minor": 0,
+      "minor": 10,
       "patch": 0
     },
     "keywords": [],
@@ -48,8 +48,48 @@
         "symbol": "BNB",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0x217F94a628A23273b97770C20A5e134D40B87b5F.png"
-      }
-    
+      },
+      {
+        "chainId": 43114,
+        "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+        "decimals": 18,
+        "name": "Ether",
+        "symbol": "ETH",
+        "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15.png"
+      },
+      {
+      "chainId": 43114,
+      "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB.png"
+     },
+     {
+      "chainId": 43114,
+      "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "decimals": 18,
+      "name": "Pangolin",
+      "symbol": "PNG",
+      "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0x60781C2586D68229fde47564546784ab3fACA982.png"
+    },
+    {
+    "chainId": 43114,
+    "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+    "decimals": 18,
+    "name": "SHIBAVAX",
+    "symbol": "SHIBX",
+    "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png"
+  }
+
     
     ]
   }
