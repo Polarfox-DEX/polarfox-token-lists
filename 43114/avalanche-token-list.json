@@ -37,7 +37,7 @@
       "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
       "chainId": 43114,
       "name": "Dai Stablecoin",
-      "symbol": "Dai",
+      "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Polarfox-DEX/polarfox-token-lists/avalanche-token-list/43114/token-logos/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a.png"
       },
